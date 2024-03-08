@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Ui/BanHangJpanel.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>393</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Util/XJdbc.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/HoaDonJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Dao/ChatLieuDAO.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/KhuyenMaiJPanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Dao/AccountDAO.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/QuenMatKhauJDialog.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/Main.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/ChiTietSanPhamJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/KhachHangJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/NhanVienJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/DoiMatKhauJDialog.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/DoanhSoJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/ThuocTinhJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/BanHangJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/DoanhThuJpanel.java</file>
+            <file>file:/E:/PRO1041/Code_DuAn1/Du_an_1/src/Ui/SanPhamJpanel.java</file>
+        </group>
+    </open-files>
+</project-private>
